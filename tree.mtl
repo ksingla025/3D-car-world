@@ -1,0 +1,27 @@
+# Blender MTL File: ''
+# Material Count: 2
+newmtl Default_Leaf_blatt1a.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.558431 0.558431 0.558431
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/karan/Desktop/Assm2_Phas2/blatt1a.jpg
+map_d /home/karan/Desktop/Assm2_Phas2/blatt1a.jpg
+map_Bump /home/karan/Desktop/Assm2_Phas2/blatt.jpg
+
+
+newmtl Default_trunk_bark.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.429804 0.429804 0.429804
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/karan/Desktop/Assm2_Phas2/bark.jpg
+map_Bump /home/karan/Desktop/Assm2_Phas2/bark.jpg
+
+

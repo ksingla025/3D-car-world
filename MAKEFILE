@@ -1,0 +1,1 @@
+gcc -lglut -lGLU -lGL -lm glm/glm/*.c latest.cpp
